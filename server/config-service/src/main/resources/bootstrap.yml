@@ -1,5 +1,1 @@
-encrypt:
-  key-store:
-    location: file:./apiEncryptionKey.jks
-    password: ssafy2405020149!
-    alias: apiEncryptionKey
+
